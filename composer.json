@@ -1,0 +1,15 @@
+{
+    "name": "wp-plugins/cleantalk-spam-protect",
+    "require-dev": {
+        "phpunit/phpunit": "^4.8",
+        "johnpbloch/wordpress": "^4.3"
+    },
+    "authors": [
+        {
+            "name": "rustik",
+            "email": "psrustik@gmail.com"
+        }
+    ],
+    "require": {
+    }
+}
